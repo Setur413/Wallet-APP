@@ -28,7 +28,7 @@ Android Studio, Visual Studio Code, or any preferred IDE.
 # Installation
 
 Clone this repository:
-git clone https://github.com/Lenkaa3792/Mywallet.git
+git clone 
 cd Mywallet
 
 # Install dependencies:
